@@ -71,15 +71,15 @@ Open `http://localhost:8080` in the browser.
 |---|---|---|
 | 
 
-![website](screenshots/website-running.png)
+![website](docker/website-running.png)
 
  | 
 
-![ps](screenshots/docker-ps.png)
+![ps](docker/docker-ps.png)
 
  | 
 
-![logs](screenshots/docker-logs.png)
+![logs](docker/docker-logs.png)
 
  |
 
